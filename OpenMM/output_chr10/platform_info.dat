@@ -1,0 +1,10 @@
+Name:  OpenCL
+Speed:  50.0
+Property names:  ('DeviceIndex', 'DeviceName', 'OpenCLPlatformIndex', 'OpenCLPlatformName', 'Precision', 'UseCpuPme', 'DisablePmeStream')
+DeviceIndex  value:  0
+DeviceName  value:  Intel(R) Iris(R) Xe Graphics
+OpenCLPlatformIndex  value:  0
+OpenCLPlatformName  value:  Intel(R) OpenCL HD Graphics
+Precision  value:  single
+UseCpuPme  value:  false
+DisablePmeStream  value:  false
